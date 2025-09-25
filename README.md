@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mandip Singh Rai  
 
-💻 **Senior Software Engineer | Full-Stack | Ruby on Rails | ASP.NET | MERN | React | Next.js | Python/Django | Java**  
+💻 **Senior Software Engineer | Full-Stack | Backend | Frontend**  
 With **12+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, e-commerce, and SaaS**. Proficient in **modern frontend frameworks, backend architectures, distributed systems, and cloud deployments**. Strong track record in **mentorship, Agile collaboration, and enterprise-grade software delivery**.  
 
 ---
