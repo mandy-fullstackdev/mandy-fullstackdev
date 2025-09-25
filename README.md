@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mandip Singh Rai  
 
-💻 **Senior Software Engineer | Full-Stack | Ruby on Rails | ASP.NET | React | Python/Django | Java**  
+💻 **Senior Software Engineer | Full-Stack | Ruby on Rails | ASP.NET | MERN | React | Next.js | Python/Django | Java**  
 With **12+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, e-commerce, and SaaS**. Proficient in **modern frontend frameworks, backend architectures, distributed systems, and cloud deployments**. Strong track record in **mentorship, Agile collaboration, and enterprise-grade software delivery**.  
 
 ---
@@ -17,9 +17,11 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=mui&logoColor=white)  
 
-**Backend**  
+**Backend & Full Stack**  
+![MERN](https://img.shields.io/badge/-MERN%20Stack-3C873A?logo=mongodb&logoColor=white) 
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
@@ -44,8 +46,7 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?logo=github&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
 
 **Testing & Tools**  
 ![RSpec](https://img.shields.io/badge/-RSpec-CC342D?logo=ruby&logoColor=white) 
@@ -72,9 +73,13 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
   - Built real-time loan lifecycle management system.  
   - **Impact:** Reduced API latency by 40%, improved submission success rate.  
 
-- **E-Commerce Payments** – Laravel + Node.js + Stripe/PayPal  
-  - Implemented secure multi-gateway payments.  
-  - **Impact:** Reduced failed transactions by 18%, improved global reach.  
+- **MERN E-Commerce Platform** – MongoDB + Express.js + React + Node.js  
+  - Developed full MERN stack application with JWT authentication, shopping cart, and Stripe payments.  
+  - **Impact:** Scaled to thousands of users with optimized queries and Redis caching.  
+
+- **Next.js SaaS Dashboard** – Next.js + React Query + Tailwind CSS  
+  - Built responsive SaaS analytics dashboard with role-based authentication and live data updates.  
+  - **Impact:** Improved reporting speed by 50% and enhanced UI/UX accessibility.  
 
 ---
 
