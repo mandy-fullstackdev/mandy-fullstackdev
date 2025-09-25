@@ -92,10 +92,7 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 ## 📫 Contact  
 
-📱 **(727) 999 9820**  
 📧 **mandiprai.fullstackdev@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/themannyrai/)  
-
-📄 [Download Full Resume (DOCX)](./Mandy%20Rai.doc)  
 
 ---
