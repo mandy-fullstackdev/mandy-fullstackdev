@@ -1,40 +1,80 @@
-# 👋 Hi, I'm Mandy Rai  
+# 👋 Hi, I'm Mandip Singh Rai  
 
-💻 **Senior Software Developer | .NET | ASP.NET Core | Angular | React | Azure**  
-Accomplished developer with **10+ years of experience** delivering scalable, enterprise-grade applications. Skilled in **.NET Standard, C#, ASP.NET Core, React, and Azure cloud services**. Strong track record in **clean architecture, distributed systems, messaging solutions (Azure Service Bus, RabbitMQ, Redis)**, and **team leadership**. Passionate about building maintainable software, solving complex technical challenges, and driving innovation.  
+💻 **Senior Software Engineer | Full-Stack | Ruby on Rails | ASP.NET | React | Python/Django | Java**  
+With **12+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, e-commerce, and SaaS**. Proficient in **modern frontend frameworks, backend architectures, distributed systems, and cloud deployments**. Strong track record in **mentorship, Agile collaboration, and enterprise-grade software delivery**.  
 
 ---
 
-## 🚀 Technical Skills  
+## 🚀 Tech Stack  
 
-- **Backend:** ASP.NET Core, C#, WCF, WPF, Entity Framework, Dapper, gRPC, SignalR  
-- **Frontend:** React, Angular, TypeScript, JavaScript (ES6+), Redux, Hooks, Tailwind CSS, Material UI, Bootstrap  
-- **Databases:** SQL Server, Cosmos DB, Oracle, MySQL, MongoDB, T-SQL  
-- **Cloud & DevOps:** Azure (Functions, Service Bus, Cosmos DB, App Service, AKS), AWS (EC2, S3), Docker, Kubernetes, CI/CD Pipelines  
-- **Messaging & Distributed Systems:** Azure Service Bus, RabbitMQ, Redis, Event Hub, CQRS, Mediator Pattern  
-- **Testing & Tools:** NUnit, Swagger, Postman, GitLab, Bitbucket, Jira, Agile Development  
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
+![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=mui&logoColor=white)  
+
+**Backend**  
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) 
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+
+**Databases & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) 
+![Azure Service Bus](https://img.shields.io/badge/-Azure%20Service%20Bus-0078D4?logo=microsoftazure&logoColor=white)  
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?logo=github&logoColor=white)  
+
+**Testing & Tools**  
+![RSpec](https://img.shields.io/badge/-RSpec-CC342D?logo=ruby&logoColor=white) 
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) 
+![NUnit](https://img.shields.io/badge/-NUnit-512BD4?logo=dotnet&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black) 
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
 
 ---
 
 ## 📂 Featured Projects  
 
-- **Prime Ledge (ERP Solution)** *(2023 – 2025)*  
+- **Prime Ledge (ERP Solution)** – ASP.NET Core + React + Azure + Redis  
   - Multi-tenant ERP for orders, inventory, and accounts.  
-  - **Solution:** Implemented CQRS + Mediator patterns, optimized SQL queries, Redis caching.  
-  - **Impact:** Reduced report generation by 40%, improved concurrent user handling.  
+  - **Impact:** Reduced report generation by 40%, improved concurrency.  
 
-- **Bank Assistant App** *(2019 – 2023)*  
-  - Multi-tenant banking app with DDD & Clean Architecture.  
-  - **Solution:** Event-driven architecture with Azure Service Bus & Cosmos DB.  
-  - **Impact:** Smooth migration of transactions, high-throughput processing.  
+- **Healthcare Engagement Platform** – Ruby on Rails + React + GraphQL  
+  - HIPAA-compliant system serving 10k+ users.  
+  - **Impact:** Reduced load times by 45%, achieved 99.9% uptime.  
 
-- **Trading Platform** *(2018 – 2019)*  
-  - Fintech system with multi-threading, Redis caching, RabbitMQ.  
-  - **Impact:** Reduced data latency by 35%, improved reliability under peak loads.  
+- **Financial Loan Processing** – Django/FastAPI + React dashboards  
+  - Built real-time loan lifecycle management system.  
+  - **Impact:** Reduced API latency by 40%, improved submission success rate.  
 
-- **One Market POS System** *(2014 – 2016)*  
-  - SMB operating system integrating inventory, e-commerce, and marketplaces.  
-  - **Impact:** Delivered event-driven microservices and Azure CI/CD pipelines.  
+- **E-Commerce Payments** – Laravel + Node.js + Stripe/PayPal  
+  - Implemented secure multi-gateway payments.  
+  - **Impact:** Reduced failed transactions by 18%, improved global reach.  
 
 ---
 
@@ -46,8 +86,11 @@ Accomplished developer with **10+ years of experience** delivering scalable, ent
 ---
 
 ## 📫 Contact  
+
 📱 **(727) 999 9820**  
 📧 **mandiprai.fullstackdev@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/themannyrai/)  
 
 📄 [Download Full Resume (DOCX)](./Mandy%20Rai.doc)  
+
+---
