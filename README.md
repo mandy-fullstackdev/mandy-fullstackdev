@@ -93,6 +93,7 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 ## 📫 Contact  
 
 📧 **mandiprai.fullstackdev@gmail.com**  
+📧 **mandiprai167@gmail.com** 
 🔗 [LinkedIn](https://www.linkedin.com/in/themannyrai/)  
 
 ---
