@@ -94,6 +94,6 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 📧 **mandiprai.fullstackdev@gmail.com**  
 📧 **mandiprai167@gmail.com** 
-🔗 [LinkedIn](https://www.linkedin.com/in/mandip-singh-rai/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mandip-rai-897522384/)  
 
 ---
